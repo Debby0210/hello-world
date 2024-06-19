@@ -16,6 +16,7 @@ ORIGINAL_IMAGE_NAME = "image.jpg"
 async def root():
     return {"message": "Hello World"}
 
+
 @app.get("/debby/debby00")
 async def cc():
     return {"message": "Hello!!!"}
