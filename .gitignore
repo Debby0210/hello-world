@@ -1,3 +1,4 @@
 #c忽略test檔案
 test.txt
 intern_project/env/
+**/action.txt
