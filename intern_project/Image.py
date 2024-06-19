@@ -11,5 +11,6 @@ cv2.imshow('Image', img)
 # 等待按鍵事件，按任意鍵關閉視窗
 cv2.waitKey(0)
 
+
 # 關閉所有視窗
 cv2.destroyAllWindows()
