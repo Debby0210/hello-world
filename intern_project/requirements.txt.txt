@@ -1,0 +1,10 @@
+進入虛擬環境
+Scripts\activate
+
+
+TDD
+coverage run -m pytest 先運行
+coverage report -m  可產生覆蓋率
+coverage html   生成html 報告
+
+
